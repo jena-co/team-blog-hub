@@ -50,5 +50,14 @@ export const members: Member[] = [
     sources: [
       "https://product-blog.hitto.co.jp/feed/author/akito_kimura",
     ],
+  },
+  {
+    id: "tongari",
+    name: "とんがり",
+    role: "Frontend Engineer",
+    avatarSrc: "/avatars/tongari.png",
+    sources: [
+      "https://zenn.dev/azuharu07/feed"
+    ]
   }
 ];
