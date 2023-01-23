@@ -4,20 +4,11 @@ export const members: Member[] = [
   {
     id: "r_hongo",
     name: "ほん",
-    role: "Backend Engineer",
+    role: "ML Engineer",
     avatarSrc: "/avatars/r_hongo.png",
     sources: [
       "https://product-blog.hitto.co.jp/feed/author/r_hongo",
       "https://qiita.com/ryoppy/feed.atom"
-    ],
-  },
-  {
-    id: "HonMarkHunt",
-    name: "ホンマークハント",
-    role: "SRE",
-    avatarSrc: "/avatars/HonMarkHunt.png",
-    sources: [
-      "https://product-blog.hitto.co.jp/feed/author/HonMarkHunt",
     ],
   },
   {
@@ -28,19 +19,6 @@ export const members: Member[] = [
     sources: [
       "https://product-blog.hitto.co.jp/feed/author/t_nakamuu",
     ],
-  },
-  {
-    id: "kyoncy",
-    name: "きょんしー",
-    role: "Frontend Engineer",
-    avatarSrc: "/avatars/n-kyoncy.png",
-    sources: [
-      "https://product-blog.hitto.co.jp/feed/author/n-kyoncy",
-      "https://zenn.dev/kyoncy/feed"
-    ],
-    githubUsername: "kyoncy",
-    twitterUsername: "kyoncy_site",
-    websiteUrl: "https://kyoncy.site",
   },
   {
     id: "akito_kimura ",
